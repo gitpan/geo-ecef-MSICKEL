@@ -1,0 +1,8 @@
+Revision history for Perl extension ecef.
+
+0.01  Fri Oct  1 11:18:55 2004
+	- original version; created by h2xs 1.23 with options
+		-AXn ecef
+
+1.0.0 Fri Feb 11 2005
+        - release created, renamed to geo::ecef

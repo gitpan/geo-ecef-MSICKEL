@@ -1,0 +1,12 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         geo-ecef
+version:      1.0.0
+version_from: lib/geo/ecef.pm
+installdirs:  site
+requires:
+    Math::Big:                     1
+    Math::BigFloat:                1
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.17
